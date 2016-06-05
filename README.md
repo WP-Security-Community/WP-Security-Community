@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/WP-The-Right-Way/WP-Security-Community](https://badges.gitter.im/WP-The-Right-Way/WP-Security-Community.svg)](https://gitter.im/WP-The-Right-Way/WP-Security-Community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Welcome to an unofficial WP Security Evangelists.
+Welcome to an unofficial WP Security Evangelists group.
 
 We hope to build a home for WordPress security evangelists to share the latest information on best practises and discuss how to help users improve security by education and grass root evangelising. 
 
