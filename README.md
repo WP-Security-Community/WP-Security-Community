@@ -25,7 +25,7 @@ If you wish to report a sercurity issue, please see the latest information at [s
 
 Please if you know of any community of people doing the same thing let us know. We would like to have one location of communication and are aware that it is possible that is already been discussed on the internet in another location.
 
-We are happy to not duplicate efforts and join a greater WordPress security evagelist group.
+We are happy to not duplicate efforts and join a greater WordPress security evangelist group.
 
 ## Why Github?
 
