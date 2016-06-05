@@ -15,6 +15,15 @@ We're documenting security issues, best practices and useful links in this repo.
 
 To start with, Combell's Brecht is sharing their guide "Securing your WordPress site"
 
+## Duplication of Effort
+
+Please if you know of any community of peple doing the same thing let us know. We would like to have one location of communication and are aware that it is possible that is already been discussed on the internet in another location.
+
+We are happy to not duplicate efforts and join a greater WordPress security evagelist group.
+
+## Why Github?
+
+This is the most transparent way of communicating that we know. Many of us already use Github and thought this would be a quick, low-effort, stress-free location.  
 
 ## The future
 In the future, we envision this to break out further and help with more low hanging security issues in the project and ensure that future secuirty evangelising has the most up to date information as possible. 
