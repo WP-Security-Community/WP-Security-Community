@@ -1,6 +1,6 @@
-# WP-Security-Community
+# WP SecurityCommunity
 
-##Welcome to an unoffical WP Security Community.
+Welcome to an unoffical WP Security Community.
 
 We hope to build a home for WordPress security evangelists to share the latest information on best practises and discuss how to help users improve security by education and grass root evangelising. 
 
