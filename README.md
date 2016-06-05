@@ -11,9 +11,15 @@ The reason why we want this is to have a centralised location where we can discu
 We would love to be part of the wordpress.org project team list, but since we understand that would take time and consideration from the community we have created this as a stop gap. 
 
 ## What are we doing?
-We're documenting security issues, best practices and useful links in this repo. You'll also find a collection of links to great external resources. We know that many companies have internal documentation to security best practises and welcome them to share their resources either via a link or by adding it to the Wiki.  
+We're sharing solutions to hardening WordPress further than the current wordpress.org documentation, resources and useful links in this repo. You'll also find a collection of links to great external resources. We know that many companies have internal documentation to security best practises and welcome them to share their resources either via a link or by adding it to the Wiki.  
 
-To start with, Combell's Brecht is sharing their guide "Securing your WordPress site"
+To start with, Combell's Brecht is sharing their guide "Securing your WordPress site
+
+## What are we *not* doing?
+
+We are **not** the WordPress sercurity team. We not the people to share security issues with. 
+
+If you wish to report a sercurity issue, please see the latest information at [security.wordpress.org](http://security.wordpress.org).
 
 ## Duplication of Effort
 
