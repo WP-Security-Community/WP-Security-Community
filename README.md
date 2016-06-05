@@ -1,4 +1,4 @@
-# WP SecurityCommunity
+# WP Security Community
 
 Welcome to an unofficial WP Security Community.
 
@@ -23,7 +23,7 @@ If you wish to report a sercurity issue, please see the latest information at [s
 
 ## Duplication of Effort
 
-Please if you know of any community of peple doing the same thing let us know. We would like to have one location of communication and are aware that it is possible that is already been discussed on the internet in another location.
+Please if you know of any community of people doing the same thing let us know. We would like to have one location of communication and are aware that it is possible that is already been discussed on the internet in another location.
 
 We are happy to not duplicate efforts and join a greater WordPress security evagelist group.
 
