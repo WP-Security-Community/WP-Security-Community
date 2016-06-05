@@ -1,21 +1,28 @@
-# WP Security Community
+# WP Security Evangelists
 
-[![Join the chat at https://gitter.im/brechtryckaert/WP-Security-Community](https://badges.gitter.im/brechtryckaert/WP-Security-Community.svg)](https://gitter.im/brechtryckaert/WP-Security-Community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/WP-The-Right-Way/WP-Security-Community](https://badges.gitter.im/WP-The-Right-Way/WP-Security-Community.svg)](https://gitter.im/WP-The-Right-Way/WP-Security-Community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Welcome to an unofficial WP Security Community.
+Welcome to an unofficial WP Security Evangelists.
 
 We hope to build a home for WordPress security evangelists to share the latest information on best practises and discuss how to help users improve security by education and grass root evangelising. 
 
-## Why?
+## What are security evangelists?
 
+They are a group of people who are passionate about sharing and education the general community on why security is important. They tend to go to meet ups and WordCamps talking about security and championing people to have preventative measures to lessen the risk that their site does not get hacked. 
+
+This particular group, specialise in educating people in the WordPress community. 
+
+Sound like someone in your local community? Please share this repo with them.
+
+## Why?
 The reason why we want this is to have a centralised location where we can discuss what are the latest knowledge we should be sharing, and have peer support check our suggestions and presentations.
 
 We would love to be part of the wordpress.org project team list, but since we understand that would take time and consideration from the community we have created this as a stop gap. 
 
 ## What are we doing?
-We're sharing solutions to hardening WordPress further than the current wordpress.org documentation, resources and useful links in this repo. You'll also find a collection of links to great external resources. We know that many companies have internal documentation to security best practises and welcome them to share their resources either via a link or by adding it to the Wiki.  
+We're sharing solutions to hardening WordPress that compliments and extends on [wordpress.org documentation](http://codex.wordpress.org/Hardening_WordPress), resources and useful links in this repo. You'll also find a collection of links to great external resources. We know that many companies have internal documentation to security best practises and welcome them to share their resources either via a link or by adding it to the Wiki.  
 
-To start with, Combell's Brecht is sharing their guide "Securing your WordPress site
+To start with, Combell's Brecht is sharing their guide "Securing your WordPress site"
 
 ## What are we *not* doing?
 
