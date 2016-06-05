@@ -1,5 +1,7 @@
 # WP Security Community
 
+[![Join the chat at https://gitter.im/brechtryckaert/WP-Security-Community](https://badges.gitter.im/brechtryckaert/WP-Security-Community.svg)](https://gitter.im/brechtryckaert/WP-Security-Community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to an unofficial WP Security Community.
 
 We hope to build a home for WordPress security evangelists to share the latest information on best practises and discuss how to help users improve security by education and grass root evangelising. 
@@ -17,9 +19,9 @@ To start with, Combell's Brecht is sharing their guide "Securing your WordPress 
 
 ## What are we *not* doing?
 
-We are **not** the WordPress sercurity team. We not the people to share security issues with. 
+We are __*not*__ the WordPress security team. We not the people to share security issues with. 
 
-If you wish to report a sercurity issue, please see the latest information at [security.wordpress.org](http://security.wordpress.org).
+If you wish to report a security issue, please see the latest information at [security.wordpress.org](http://security.wordpress.org).
 
 ## Duplication of Effort
 
@@ -32,6 +34,4 @@ We are happy to not duplicate efforts and join a greater WordPress security evan
 This is the most transparent way of communicating that we know. Many of us already use Github and thought this would be a quick, low-effort, stress-free location.  
 
 ## The future
-In the future, we envision this to break out further and help with more low hanging security issues in the project and ensure that future secuirty evangelising has the most up to date information as possible. 
-
-
+In the future, we envision this to break out further and help with more low hanging security issues in the project and ensure that future security evangelising has the most up to date information as possible. 
