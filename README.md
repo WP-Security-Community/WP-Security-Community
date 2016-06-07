@@ -1,6 +1,6 @@
 # WP Security Evangelists
 
-[![Join the chat at https://gitter.im/WP-The-Right-Way/WP-Security-Community](https://badges.gitter.im/WP-The-Right-Way/WP-Security-Community.svg)](https://gitter.im/WP-The-Right-Way/WP-Security-Community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/WP-Security-Community/WP-Security-Community.svg)](https://gitter.im/WP-Security-Community/WP-Security-Community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Welcome to an unofficial WP Security Evangelists group.
 
